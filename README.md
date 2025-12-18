@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+Here is my stack I used for the final project in cs50.
+[![icons-for-md](https://icons.lan/icons?i=vue-js,javascript,html-light,css-light,nodejs-alt,npm)](https://icons.lan)
+
 <!--
 **mirko-opasn/mirko-opasn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
